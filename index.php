@@ -1,1 +1,1 @@
-<?php include_once("./dar_S1.html"); ?>
+<?php include_once("./dar_s1.html"); ?>
